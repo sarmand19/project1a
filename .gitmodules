@@ -1,0 +1,6 @@
+[submodule "angular-chat-client"]
+	path = angular-chat-client
+	url = https://github.com/sarmand19/angular-chat-client.git
+[submodule "Reimbursement"]
+	path = Reimbursement
+	url = https://github.com/sarmand19/Reimbursement.git
